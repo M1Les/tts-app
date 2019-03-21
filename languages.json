@@ -1,0 +1,488 @@
+[
+  {
+    "locale": "ar-EG",
+    "language": "Arabic (Egypt)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ar-EG, Hoda)"
+  },
+  {
+    "locale": "ar-SA",
+    "language": "Arabic (Saudi Arabia)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ar-SA, Naayf)"
+  },
+  {
+    "locale": "bg-BG",
+    "language": "Bulgarian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (bg-BG, Ivan)"
+  },
+  {
+    "locale": "ca-ES",
+    "language": "Catalan (Spain)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ca-ES, HerenaRUS)"
+  },
+  {
+    "locale": "cs-CZ",
+    "language": "Czech",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (cs-CZ, Jakub)"
+  },
+  {
+    "locale": "da-DK",
+    "language": "Danish",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (da-DK, HelleRUS)"
+  },
+  {
+    "locale": "de-AT",
+    "language": "German (Austria)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (de-AT, Michael)"
+  },
+  {
+    "locale": "de-CH",
+    "language": "German (Switzerland)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (de-CH, Karsten)"
+  },
+  {
+    "locale": "de-DE",
+    "language": "German (Germany)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (de-DE, Hedda)"
+  },
+  {
+    "locale": "de-DE",
+    "language": "German (Germany)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (de-DE, HeddaRUS)"
+  },
+  {
+    "locale": "de-DE",
+    "language": "German (Germany)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (de-DE, Stefan, Apollo)"
+  },
+  {
+    "locale": "el-GR",
+    "language": "Greek",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (el-GR, Stefanos)"
+  },
+  {
+    "locale": "en-AU",
+    "language": "English (Australia)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-AU, Catherine)"
+  },
+  {
+    "locale": "en-AU",
+    "language": "English (Australia)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-AU, HayleyRUS)"
+  },
+  {
+    "locale": "en-CA",
+    "language": "English (Canada)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-CA, Linda)"
+  },
+  {
+    "locale": "en-CA",
+    "language": "English (Canada)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-CA, HeatherRUS)"
+  },
+  {
+    "locale": "en-GB",
+    "language": "English (UK)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-GB, Susan, Apollo)"
+  },
+  {
+    "locale": "en-GB",
+    "language": "English (UK)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-GB, HazelRUS)"
+  },
+  {
+    "locale": "en-GB",
+    "language": "English (UK)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-GB, George, Apollo)"
+  },
+  {
+    "locale": "en-IE",
+    "language": "English (Ireland)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-IE, Sean)"
+  },
+  {
+    "locale": "en-IN",
+    "language": "English (India)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-IN, Heera, Apollo)"
+  },
+  {
+    "locale": "en-IN",
+    "language": "English (India)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-IN, PriyaRUS)"
+  },
+  {
+    "locale": "en-IN",
+    "language": "English (India)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-IN, Ravi, Apollo)"
+  },
+  {
+    "locale": "en-US",
+    "language": "English (US)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-US, ZiraRUS)"
+  },
+  {
+    "locale": "en-US",
+    "language": "English (US)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-US, JessaRUS)"
+  },
+  {
+    "locale": "en-US",
+    "language": "English (US)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-US, BenjaminRUS)"
+  },
+  {
+    "locale": "en-US",
+    "language": "English (US)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-US, Jessa24kRUS)"
+  },
+  {
+    "locale": "en-US",
+    "language": "English (US)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (en-US, Guy24kRUS)"
+  },
+  {
+    "locale": "es-ES",
+    "language": "Spanish (Spain)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (es-ES, Laura, Apollo)"
+  },
+  {
+    "locale": "es-ES",
+    "language": "Spanish (Spain)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (es-ES, HelenaRUS)"
+  },
+  {
+    "locale": "es-ES",
+    "language": "Spanish (Spain)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (es-ES, Pablo, Apollo)"
+  },
+  {
+    "locale": "es-MX",
+    "language": "Spanish (Mexico)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (es-MX, HildaRUS)"
+  },
+  {
+    "locale": "es-MX",
+    "language": "Spanish (Mexico)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (es-MX, Raul, Apollo)"
+  },
+  {
+    "locale": "fi-FI",
+    "language": "Finnish",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fi-FI, HeidiRUS)"
+  },
+  {
+    "locale": "fr-CA",
+    "language": "French (Canada)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-CA, Caroline)"
+  },
+  {
+    "locale": "fr-CA",
+    "language": "French (Canada)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-CA, HarmonieRUS)"
+  },
+  {
+    "locale": "fr-CH",
+    "language": "French (Switzerland)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-CH, Guillaume)"
+  },
+  {
+    "locale": "fr-FR",
+    "language": "French (France)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-FR, Julie, Apollo)"
+  },
+  {
+    "locale": "fr-FR",
+    "language": "French (France)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-FR, HortenseRUS)"
+  },
+  {
+    "locale": "fr-FR",
+    "language": "French (France)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (fr-FR, Paul, Apollo)"
+  },
+  {
+    "locale": "he-IL",
+    "language": "Hebrew (Israel)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (he-IL, Asaf)"
+  },
+  {
+    "locale": "hi-IN",
+    "language": "Hindi (India)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (hi-IN, Kalpana, Apollo)"
+  },
+  {
+    "locale": "hi-IN",
+    "language": "Hindi (India)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (hi-IN, Kalpana)"
+  },
+  {
+    "locale": "hi-IN",
+    "language": "Hindi (India)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (hi-IN, Hemant)"
+  },
+  {
+    "locale": "hr-HR",
+    "language": "Croatian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (hr-HR, Matej)"
+  },
+  {
+    "locale": "hu-HU",
+    "language": "Hungarian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (hu-HU, Szabolcs)"
+  },
+  {
+    "locale": "id-ID",
+    "language": "Indonesian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (id-ID, Andika)"
+  },
+  {
+    "locale": "it-IT",
+    "language": "Italian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (it-IT, Cosimo, Apollo)"
+  },
+  {
+    "locale": "it-IT",
+    "language": "Italian",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (it-IT, LuciaRUS)"
+  },
+  {
+    "locale": "ja-JP",
+    "language": "Japanese",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ja-JP, Ayumi, Apollo)"
+  },
+  {
+    "locale": "ja-JP",
+    "language": "Japanese",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ja-JP, Ichiro, Apollo)"
+  },
+  {
+    "locale": "ja-JP",
+    "language": "Japanese",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ja-JP, HarukaRUS)"
+  },
+  {
+    "locale": "ko-KR",
+    "language": "Korean",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ko-KR, HeamiRUS)"
+  },
+  {
+    "locale": "ms-MY",
+    "language": "Malay",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ms-MY, Rizwan)"
+  },
+  {
+    "locale": "nb-NO",
+    "language": "Norwegian",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (nb-NO, HuldaRUS)"
+  },
+  {
+    "locale": "nl-NL",
+    "language": "Dutch",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (nl-NL, HannaRUS)"
+  },
+  {
+    "locale": "pl-PL",
+    "language": "Polish",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (pl-PL, PaulinaRUS)"
+  },
+  {
+    "locale": "pt-BR",
+    "language": "Portuguese (Brazil)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (pt-BR, HeloisaRUS)"
+  },
+  {
+    "locale": "pt-BR",
+    "language": "Portuguese (Brazil)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (pt-BR, Daniel, Apollo)"
+  },
+  {
+    "locale": "pt-PT",
+    "language": "Portuguese (Portugal)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (pt-PT, HeliaRUS)"
+  },
+  {
+    "locale": "ro-RO",
+    "language": "Romanian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ro-RO, Andrei)"
+  },
+  {
+    "locale": "ru-RU",
+    "language": "Russian",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ru-RU, Irina, Apollo)"
+  },
+  {
+    "locale": "ru-RU",
+    "language": "Russian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ru-RU, Pavel, Apollo)"
+  },
+  {
+    "locale": "ru-RU",
+    "language": "Russian",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ru-RU, EkaterinaRUS)"
+  },
+  {
+    "locale": "sk-SK",
+    "language": "Slovak",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (sk-SK, Filip)"
+  },
+  {
+    "locale": "sl-SI",
+    "language": "Slovenian",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (sl-SI, Lado)"
+  },
+  {
+    "locale": "sv-SE",
+    "language": "Swedish",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (sv-SE, HedvigRUS)"
+  },
+  {
+    "locale": "ta-IN",
+    "language": "Tamil (India)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (ta-IN, Valluvar)"
+  },
+  {
+    "locale": "te-IN",
+    "language": "Telugu (India)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (te-IN, Chitra)"
+  },
+  {
+    "locale": "th-TH",
+    "language": "Thai",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (th-TH, Pattara)"
+  },
+  {
+    "locale": "tr-TR",
+    "language": "Turkish",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (tr-TR, SedaRUS)"
+  },
+  {
+    "locale": "vi-VN",
+    "language": "Vietnamese",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (vi-VN, An)"
+  },
+  {
+    "locale": "zh-CN",
+    "language": "Chinese (Mainland)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-CN, HuihuiRUS)"
+  },
+  {
+    "locale": "zh-CN",
+    "language": "Chinese (Mainland)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-CN, Yaoyao, Apollo)"
+  },
+  {
+    "locale": "zh-CN",
+    "language": "Chinese (Mainland)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-CN, Kangkang, Apollo)"
+  },
+  {
+    "locale": "zh-HK",
+    "language": "Chinese (Hong Kong)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-HK, Tracy, Apollo)"
+  },
+  {
+    "locale": "zh-HK",
+    "language": "Chinese (Hong Kong)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-HK, TracyRUS)"
+  },
+  {
+    "locale": "zh-HK",
+    "language": "Chinese (Hong Kong)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-HK, Danny, Apollo)"
+  },
+  {
+    "locale": "zh-TW",
+    "language": "Chinese (Taiwan)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-TW, Yating, Apollo)"
+  },
+  {
+    "locale": "zh-TW",
+    "language": "Chinese (Taiwan)",
+    "gender": "Female",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-TW, HanHanRUS)"
+  },
+  {
+    "locale": "zh-TW",
+    "language": "Chinese (Taiwan)",
+    "gender": "Male",
+    "mapping": "Microsoft Server Speech Text to Speech Voice (zh-TW, Zhiwei, Apollo)"
+  }
+]

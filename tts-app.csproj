@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>tts_app</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+   <LangVersion>7.1</LangVersion>
+</PropertyGroup>
+
+<ItemGroup>
+  <None Include="languages.json" CopyToOutputDirectory="Always" />
+</ItemGroup>
+<ItemGroup>
+  <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+</ItemGroup>
+
+</Project>
